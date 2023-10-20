@@ -7,5 +7,5 @@ export interface Country {
   nationalDay: Date;
   countryCode2: string;
   countryCode3: string;
-  region: Region; // Assuming you have a Region model as well
+  region: Region; 
 }
